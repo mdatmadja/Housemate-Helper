@@ -4,6 +4,8 @@ Project done by group OVO for CSE 115A.
 
 Included in this repostitory is the fully functioning codebase in the "login" directory and all documentation in the "documentation directory". Documentation includes all sprint release plans and reports, all testing documents, and working prototype known problems.  
 
+
+
 How to run application locally:
 
 git clone
@@ -13,6 +15,8 @@ cd into directory
 npm i firebase@^8.10.0  
 
 npm start (Application will run on http://localhost:3000/ in browser)
+
+
 
 Introduction:
 
