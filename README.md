@@ -2,7 +2,7 @@
 
 Project done by group OVO for CSE 115A. 
 
-Included in this repostitory is the fully functioning codebase in the "login" directory and all documentation in the "documentation directory". Documentation includes all sprint release plans and reports, all testing documents, and working prototype known problems.  
+Included in this repostitory is the fully functioning codebase for release 1.0 in the "login" directory and all documentation in the "documentation directory". Documentation includes all sprint release plans and reports, all testing documents, and working prototype known problems.  
 
 
 <br />
